@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\максим\documents\visual studio 2015\projects\idz_3\idz_3\source.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\максим\documents\visual studio 2015\projects\idz_3\idz_3\source.cpp(148): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  idz_3.vcxproj -> C:\Users\Максим\documents\visual studio 2015\Projects\idz_3\Debug\idz_3.exe
+  idz_3.vcxproj -> C:\Users\Максим\documents\visual studio 2015\Projects\idz_3\Debug\idz_3.pdb (Partial PDB)
